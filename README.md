@@ -21,3 +21,5 @@ Furthermore, there is some significant self-similar themes
 in the code which are crying out for a generic implementation,
 but I'm leaving this expanded out just until I'm confident
 about reducing that.
+
+I must .Net-Core this.
