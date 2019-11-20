@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "FsPrecedenceParser", "FsPrecedenceParser\FsPrecedenceParser.fsproj", "{87220719-8F57-469E-9AD8-7C074489FE3A}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PrecedenceParserTests", "PrecedenceParserTests\PrecedenceParserTests.fsproj", "{034EBD0A-F868-4871-B85E-8873C274A3D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87220719-8F57-469E-9AD8-7C074489FE3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87220719-8F57-469E-9AD8-7C074489FE3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87220719-8F57-469E-9AD8-7C074489FE3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87220719-8F57-469E-9AD8-7C074489FE3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{034EBD0A-F868-4871-B85E-8873C274A3D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{034EBD0A-F868-4871-B85E-8873C274A3D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{034EBD0A-F868-4871-B85E-8873C274A3D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{034EBD0A-F868-4871-B85E-8873C274A3D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C55D2B5-8998-4490-8025-DDF73D12ADBC}
+	EndGlobalSection
+EndGlobal
